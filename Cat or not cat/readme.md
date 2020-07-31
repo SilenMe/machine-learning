@@ -1,5 +1,1 @@
-In this projects, logistic regression is used to indetify whether it's cat or not in the image.
-
-In this projects, data was taken from a H5py file.
-
-PIL and scipy were used to test the model at my end.
+# go to https://github.com/SilenMe/machine-learning/tree/master/cat%20or%20not%20cat%20using%20neural%20network%20from%20scratch for the updated version
